@@ -1,11 +1,8 @@
 # Analyzing Telco Usage Patterns to Predict Subscription Type with Machine Learning
 
-**Course:** Special Topic in Computer Science (CSC649)  
-**Institution:** Universiti Teknologi MARA (UiTM)  
-**Status:** Completed (July 2025)
 
 ## 📌 Project Overview
-[cite_start]This project aims to develop a machine learning model to automatically categorize mobile plans as either **Prepaid** or **Postpaid** based on key user attributes such as pricing, data limits, and digital behavior[cite: 16]. 
+[cite_start]This project aims to develop a machine learning model to automatically categorize mobile plans as either **Prepaid** or **Postpaid** based on key user attributes such as pricing, data limits, and digital behavior. 
 
 In Malaysia's competitive telecommunications industry, understanding customer preferences is critical. [cite_start]This project utilizes the **K-Nearest Neighbors (KNN)** algorithm and **K-Fold Cross Validation** to predict subscription types, helping telcos align their product offerings with actual user behavior[cite: 17, 70, 81].
 
