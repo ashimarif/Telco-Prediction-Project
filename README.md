@@ -15,7 +15,6 @@ In Malaysia's competitive telecommunications industry, understanding customer pr
 Based on the project files, the repository is organized as follows:
 - **`DATASETS/`**: Contains the raw survey data collected via Google Forms.
 - **`JUPYTER-PYTHON CODE/`**: The main `.ipynb` notebooks containing data cleaning, EDA, and model training.
-- **`REPORT/`**: The full project documentation (PDF).
 - **`SPLIT DATASET/`**: Training and testing splits used for the model.
 - **`K-FOLD DATASETS/`**: Datasets divided for the 4-fold cross-validation process.
 
